@@ -3,6 +3,19 @@
 #include <string>
 #include <sstream>
 
+
+//Modificari:
+//1: Stergere comentarii (linii: 267 306 321 330 340 344 356 )
+//2: Variabila em redenumita in emailNou (linii: 191)
+//3: Redenumire llistaEmail in listaEmail (typo de scriere) (linii: 275)
+//3: Redenumire listaFisier in listaEmailTXT (linii: 291)
+//4: O initializare mai decenta (linii: 249)
+//5: Inlocuire hardcodare "Hey" cu o variabila in caz ca ar exista reutilizari pe viitor (linii: 254)
+//6: Utilizare operator this pentru nrAdrese, to pentru o mai buna intelegere (linii: 194)
+//7: Verificare daca exista inainte de stergere (linii: 54) 
+//8: Spargerea liniei urmatoare in 2 linii pentru o mai buna citire (linii: 257)
+
+
 using namespace std;
 
 class ExceptieEmail {
@@ -175,7 +188,7 @@ public:
 		strcpy(this->from, from);
 	}
 
-	//Moficare 2: Variabila em redenumita in emailNou
+	//Modificare 2: Variabila em redenumita in emailNou
 	void addEmail(string em) {
 
 		//Modificare 6: Utilizare operator this pentru nrAdrese, to pentru o mai buna intelegere
