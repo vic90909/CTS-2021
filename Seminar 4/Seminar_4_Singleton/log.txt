@@ -1,0 +1,16 @@
+Thu Mar 18 17:59:11 EET 2021 GUI created
+Thu Mar 18 18:03:00 EET 2021 CommandLine Created
+Thu Mar 18 18:03:00 EET 2021 GUI created
+Thu Mar 18 18:19:35 EET 2021 GUI created
+Thu Mar 18 18:19:35 EET 2021 CommandLine Created
+Thu Mar 18 18:37:43 EET 2021 GUI created
+Thu Mar 18 18:37:43 EET 2021 CommandLine Created
+Thu Mar 18 18:37:46 EET 2021 message from newMain
+Thu Mar 18 18:42:43 EET 2021 CommandLine Created
+Thu Mar 18 18:42:43 EET 2021 GUI created
+Thu Mar 18 18:42:46 EET 2021 message from newMain
+Thu Mar 18 18:42:49 EET 2021 Annother message from newMain V3
+Thu Mar 18 18:53:16 EET 2021 GUI created
+Thu Mar 18 18:53:16 EET 2021 CommandLine Created
+Thu Mar 18 18:53:19 EET 2021 message from newMain
+Thu Mar 18 18:53:22 EET 2021 Annother message from newMain V3
